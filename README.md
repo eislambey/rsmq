@@ -48,7 +48,7 @@ The simplicity of RSMQ is useful in other languages. Here is a list of implement
 
 * [**Rust**](https://github.com/Couragium/rsmq-async-rs) RSMQ Async for Rust. See [#107](https://github.com/smrchy/rsmq/issues/107)
 * [**Java**](https://github.com/igr/jrsmq) RSMQ for Java. See [#48](https://github.com/smrchy/rsmq/issues/48)
-* [**PHP**](https://github.com/michsindelar/PhpRSMQ) RSMQ for PHP (work in progress)
+* [**PHP**](https://github.com/eislambey/php-rsmq) RSMQ for PHP. See [#120](https://github.com/smrchy/rsmq/issues/120)
 
 Note: Should you plan to port RSQM to another language please make sure to have tests to ensure compatibility with all RSMQ clients. And of course: let me know so i can mention your port here.
 
